@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jst.j2ee.internal"/>
+			<item value="org.eclipse.emf.codegen.ui.JETNewWizards"/>
+			<item value="org.eclipse.wst.web.ui"/>
+		</list>
+		<section name="NewWizard.dialogBounds">
+		</section>
+	</section>
+	<section name="ImportExportAction">
+		<section name="ImportExportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="20"/>
+			<item key="DIALOG_Y_ORIGIN" value="20"/>
+			<item key="DIALOG_WIDTH" value="875"/>
+			<item key="DIALOG_HEIGHT" value="550"/>
+			<item key="DIALOG_FONT_NAME" value="1|Noto Mono|11.0|0|GTK|1|"/>
+		</section>
+	</section>
+	<section name="PropertyDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="20"/>
+		<item key="DIALOG_Y_ORIGIN" value="20"/>
+		<item key="DIALOG_WIDTH" value="1804"/>
+		<item key="DIALOG_HEIGHT" value="827"/>
+		<item key="DIALOG_FONT_NAME" value="1|Noto Mono|11.0|0|GTK|1|"/>
+	</section>
+</section>
